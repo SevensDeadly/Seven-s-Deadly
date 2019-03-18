@@ -1,0 +1,20 @@
+*title Seven's Deadly
+
+*author EJA
+
+*scene_list
+       startup
+       Prologue
+       
+*create name "name"
+*create gender "gender"
+*create Charisma 50
+*create Bluntness 50
+*create Honesty 0
+*create Aria 0
+*create Xander 0
+*create Nero 0
+*create Fenrir 0
+*create Aster 0
+*create Seraphina 0
+*create Zarola 0

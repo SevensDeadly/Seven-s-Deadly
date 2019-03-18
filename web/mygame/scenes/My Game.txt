@@ -1,0 +1,7 @@
+Hello World!
+*choice
+	#This is the first option
+		You chose the first option
+	#This is the second option
+		You chose the second option
+*finish
